@@ -1,2 +1,2 @@
 # data-camp
-All tutorial in data camp
+tutorial in data camp
